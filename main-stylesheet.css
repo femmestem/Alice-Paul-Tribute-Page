@@ -1,0 +1,14 @@
+body {
+  font-family: "source sans pro";
+}
+h1 {
+  font-family: lora;
+}
+.img-bg{
+  background: #999;
+  padding: 1.5em;
+}
+.date {
+  font-family: monospace;
+  font-weight: bold;
+}
